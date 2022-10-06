@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiren Nakawala
-- 👀 I’m interested in mastering PyTorch
-- 🌱 I’m currently learning everything with PyTorch
+- 👀 I’m interested in Machine Learning/Deep Learning/Computer Vision/Data Science
+- 🌱 I’m currently learning everything in what I am interested
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ...
 
